@@ -6,7 +6,7 @@
         "Mutex",
         "Synchronisation"
     ],
-    "version": "0.1.3",
+    "version": "0.1.4",
     "author": {
         "name": "Abhinandan Dhodi",
         "url": "https://github.com/jquery/MUTEX_Token_System/blob/2.1.2/AUTHORS.txt"
